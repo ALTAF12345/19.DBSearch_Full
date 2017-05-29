@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DBSearch</string>
+
+    <string-array name="search_field">
+        <item>Name</item>
+        <item>Course</item>
+        <item>Fee Paid</item>
+        <item>Fee Not Paid</item>
+    </string-array>
+
+</resources>
